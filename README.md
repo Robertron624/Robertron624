@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Robertron624
-- 👀 I’m interested in Python, javascript, app development
+- 👀 I’m interested in Python, javascript, Web app development
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: e-mail: robert.624@hotmail.com, twitter : @robertdowny
