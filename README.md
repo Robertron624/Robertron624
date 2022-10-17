@@ -4,7 +4,11 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: e-mail: robert.624@hotmail.com, twitter : @robertdowny
 
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robertron624)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robertron624)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
