@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Robertron624
-- 👀 I’m interested in Python, Javascript and Web app development.
-- 🌱 I’m currently learning javascript, ReactJs, ExpressJs.
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in Python, Javascript, ReactJs and Web app development in general.
+- 🤓 I’m currently learning javascript, ReactJs, ExpressJs.
 - 📫 How to reach me: e-mail: robert.624@hotmail.com, twitter : @robertdowny
 
 
