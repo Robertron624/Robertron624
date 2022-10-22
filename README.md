@@ -3,6 +3,7 @@
 - 👀 I’m a frontend web developer interested in Python, Javascript, ReactJs and Web development in general.
 - 🤓 I’m currently learning backend development: RESTful and GraphQL APIs, relational and no-relational databases.
 - 📫 Reach me through email: robert.624@hotmail.com.
+- 🌎 I can speak three languages: Spanish 🇪🇸, English 🇬🇧 and French 🇫🇷.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
