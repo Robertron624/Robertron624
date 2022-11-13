@@ -5,13 +5,19 @@
 - 📫 Reach me through email: robert.624@hotmail.com.
 - 🌎 I can speak three languages: Spanish 🇪🇸, English 🇬🇧 and French 🇫🇷.
 
-**Front-end**
+---
 
-<code><img height="40" src="https://user-images.githubusercontent.com/90062924/192560007-a41294ef-7af3-4bd3-8575-5e30c1884063.png" alt="JavaScript" title="JavaScript"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/90062924/192561036-e25e218f-4c48-4ff2-812b-170664f55f77.png" alt="React JS" title="React JS"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/90062924/192562917-0be8256e-6956-4426-b097-fe73335f4a8e.png" alt="TypeScript" title="TypeScript"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/90062924/192579814-2807d7d4-5df2-4029-87d5-73ccc1946be6.png" alt="CSS" title="CSS"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/90062924/192581363-e23ae303-1b0c-4c95-a08c-a6ca89763437.png" alt="HTML" title="HTML"></code>
+## 🧰 Toolbox
+
+### Frontend
+
+<img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML logo vector"> <img width="50" height="50"  src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS logo vector"> <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript logo vector">   <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript logo vector">  <img class="larger" width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React logo vector"> <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg" alt="GraphQL Logo logo vector"> 
+
+### Backend
+
+<img height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS icon logo vector"> <img height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/go-8.svg" alt="Go logo vector"> <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python logo vector">
+
+---
 
 
 <h3 align="left">Connect with me:</h3>
