@@ -14,7 +14,11 @@
 
 ### Backend
 
-<img height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS icon logo vector"> <img height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/go-8.svg" alt="Go logo vector"> <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python logo vector">
+<img height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS icon logo vector"> <img height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/go-8.svg" alt="Go logo vector"> <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python logo vector"> <img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C# logo">
+
+### Databases
+
+<img height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB icon logo vector"> <img height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL icon logo vector"> <img height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase icon logo vector"> <img height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" alt="MySQL icon logo vector">
 
 ---
 
